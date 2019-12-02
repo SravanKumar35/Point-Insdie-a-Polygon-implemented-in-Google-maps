@@ -1,0 +1,24 @@
+Sample input and output:
+
+Enter the number of input points : 3 
+Enter the latitudes and longitudes: 15.357698 75.121618
+						    		15.361919 75.101276
+						    		15.351987 75.095268
+Enter the point to classify : 	    15.344538 75.117927
+
+The point lies Outside the Polygon
+
+
+
+
+Enter the number of input points : 4 
+Enter the latitudes and longitudes: 15.357698 75.121618
+						    		15.361919 75.101276
+						    		15.351987 75.095268
+						    		15.344538 75.117927
+
+Enter the point to classify  :	    15.315161 75.121317
+The point lies Outside the Polygon
+
+
+
